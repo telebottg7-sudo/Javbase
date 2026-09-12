@@ -1,8 +1,125 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T18:18:57.963Z",
-  "totalCount": 6,
+  "updatedAt": "2026-09-12T18:21:05.366Z",
+  "totalCount": 19,
   "studios": [
+    {
+      "slug": "premium",
+      "name": "Premium",
+      "letter": "p",
+      "path": "studio/p/premium.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/9f498cad4e238219fc73139490b82705.jpg",
+      "videoCount": 6,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "fitch",
+      "name": "Fitch",
+      "letter": "f",
+      "path": "studio/f/fitch.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/3e57125811fedf494962894ec1acb250.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "dahlia",
+      "name": "DAHLIA",
+      "letter": "d",
+      "path": "studio/d/dahlia.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/420e50080c2c89a84a6cd3e9b56006c3.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "oppai",
+      "name": "Oppai",
+      "letter": "o",
+      "path": "studio/o/oppai.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/4852777c37ec44d018060d6973ca392f.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "10musume",
+      "name": "10Musume",
+      "letter": "_",
+      "path": "studio/_/10musume.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/b0c250e7d04cad6df9e70b3d32ac5321.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "glory-quest",
+      "name": "Glory Quest",
+      "letter": "g",
+      "path": "studio/g/glory-quest.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/614cb7edde1cbbb6188286c2f6181bbd.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "kan-ran-mono",
+      "name": "Kan Ran Mono",
+      "letter": "k",
+      "path": "studio/k/kan-ran-mono.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/f4a7e8794490bcbcfa0343648d968a00.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "s-cute",
+      "name": "S-Cute",
+      "letter": "s",
+      "path": "studio/s/s-cute.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/cb64207e86e6696b68ebebbb6da10f88.jpg",
+      "videoCount": 4,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "fc2ppv",
+      "name": "FC2PPV",
+      "letter": "f",
+      "path": "studio/f/fc2ppv.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/a72a2e9ab770e25a49d10a4911d96ef8.jpg",
+      "videoCount": 11,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "attackers",
+      "name": "Attackers",
+      "letter": "a",
+      "path": "studio/a/attackers.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/e9f92659c3ef705d52d0fe21e6425e52.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "lunatics",
+      "name": "LUNATICS",
+      "letter": "l",
+      "path": "studio/l/lunatics.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/9496cc24ee4a73d3fe3060b80a2446e8.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "moodyz",
+      "name": "MOODYZ",
+      "letter": "m",
+      "path": "studio/m/moodyz.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/3ce0c0aeee9cac1e1006d71e2ea88962.jpg",
+      "videoCount": 3,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
+    {
+      "slug": "venus",
+      "name": "Venus",
+      "letter": "v",
+      "path": "studio/v/venus.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2021/05/08/63e2bf965243de690247f5e1ab8bb4db.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
+    },
     {
       "slug": "peters-max",
       "name": "Peters MAX",
@@ -36,8 +153,8 @@
       "letter": "m",
       "path": "studio/m/madonna.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/19/dbf23f232653bcf080523cb8b504deea.jpg",
-      "videoCount": 59,
-      "updatedAt": "2026-09-12T17:51:35.258Z"
+      "videoCount": 60,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
     },
     {
       "slug": "s1-no1-style",
@@ -45,8 +162,8 @@
       "letter": "s",
       "path": "studio/s/s1-no1-style.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/07/29/bea11cdde7876846a866348e746457cf.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T17:23:11.645Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-12T18:21:05.366Z"
     },
     {
       "slug": "sod-create",
