@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-12T17:13:01.141Z",
+  "totalCount": 15,
+  "actresses": [
+    {
+      "slug": "aine-homura",
+      "name": "Aine Homura",
+      "letter": "a",
+      "path": "pstar/a/aine-homura.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/26/e408e8755a38332c1734e050c904748e.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "sakura-mana",
+      "name": "Sakura Mana",
+      "letter": "s",
+      "path": "pstar/s/sakura-mana.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/26/9f47dea69ca807012ae0e582a6d6f2c8.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "nagisa-koio",
+      "name": "Nagisa Koio",
+      "letter": "n",
+      "path": "pstar/n/nagisa-koio.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/26/8d9fcc0a2521ff9329871f002a5ea96a.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "koibuchi-momona",
+      "name": "Koibuchi Momona",
+      "letter": "k",
+      "path": "pstar/k/koibuchi-momona.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/26/e76edc81153cb11593975dbcdcc24b4f.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "honjou-suzu",
+      "name": "Honjou Suzu",
+      "letter": "h",
+      "path": "pstar/h/honjou-suzu.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/26/943d5a90183cccad95b990b5de373544.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "miyajima-mei",
+      "name": "Miyajima Mei",
+      "letter": "m",
+      "path": "pstar/m/miyajima-mei.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/30/7f6ab7d8b3cc526df557c03b44cd0fc0.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "akari-matsunaga",
+      "name": "Akari Matsunaga",
+      "letter": "a",
+      "path": "pstar/a/akari-matsunaga.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/01/a9600a98b2f2029ec93f234a026c37f2.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "haru-shibasaki",
+      "name": "Haru Shibasaki",
+      "letter": "h",
+      "path": "pstar/h/haru-shibasaki.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/01/37c08da0ef54d353c45e4c7e3dd0020c.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "rui-ichinomiya",
+      "name": "Rui Ichinomiya",
+      "letter": "r",
+      "path": "pstar/r/rui-ichinomiya.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/01/d65d21c041744d69319b7a27f1362c12.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "minamo",
+      "name": "MINAMO",
+      "letter": "m",
+      "path": "pstar/m/minamo.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/03/f14f1ad3a9d03f2e30bb2fe122752d5f.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "ciel-kururugi",
+      "name": "Ciel Kururugi",
+      "letter": "c",
+      "path": "pstar/c/ciel-kururugi.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/08/642ba198ea22ae9bc3347f74a6375d76.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "minami-airi",
+      "name": "Minami Airi",
+      "letter": "m",
+      "path": "pstar/m/minami-airi.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/09/cb386a8b25403bf4c1f15b94806a7b9d.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "tsuki-shibuya",
+      "name": "Tsuki Shibuya",
+      "letter": "t",
+      "path": "pstar/t/tsuki-shibuya.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/09/55f59097f1be85606e2150b448e0a2fd.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "ooura-manami",
+      "name": "Ooura Manami",
+      "letter": "o",
+      "path": "pstar/o/ooura-manami.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/09/18e2cdd1c9810258ef107c109e44820f.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    },
+    {
+      "slug": "kominato-yotsuha",
+      "name": "Kominato Yotsuha",
+      "letter": "k",
+      "path": "pstar/k/kominato-yotsuha.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/9245ae4e6541b55a7d234180c7f9d071.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:13:01.141Z"
+    }
+  ]
+}
