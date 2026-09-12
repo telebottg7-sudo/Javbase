@@ -1,0 +1,22 @@
+{
+  "slug": "aoi-ichigo",
+  "name": "Aoi Ichigo",
+  "letter": "a",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/12/11/5b7adc61f2b159ae1f7ba63d8d923e1f.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCT-572",
+      "title": "RCT-572 Bitchirori.",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/12/11/5b7adc61f2b159ae1f7ba63d8d923e1f.jpg",
+      "postUrl": "https://javtiful.com/video/73498/rct-572",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2024-12-11",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:15.627Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

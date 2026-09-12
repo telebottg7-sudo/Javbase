@@ -1,0 +1,22 @@
+{
+  "slug": "andou-rei",
+  "name": "Andou Rei",
+  "letter": "a",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/07/16/3e942206f7424daf17251313c983a7c1.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCT-836",
+      "title": "RCT-836 Soul-infused Possession Gun",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/07/16/3e942206f7424daf17251313c983a7c1.jpg",
+      "postUrl": "https://javtiful.com/video/89104/rct-836",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-07-16",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:08.822Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

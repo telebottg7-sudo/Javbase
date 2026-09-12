@@ -1,0 +1,22 @@
+{
+  "slug": "mine-yume",
+  "name": "Mine Yume",
+  "letter": "m",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/08/27/0558f3244f050c2ae12d6ebaa6ef286f.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCTD-681",
+      "title": "RCTD-681 ROCKET 17th Anniversary User Request Festival: Turn your everyday life into an NPC. Do whatever you want with that girl who only says the same lines and moves!",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/08/27/0558f3244f050c2ae12d6ebaa6ef286f.jpg",
+      "postUrl": "https://javtiful.com/video/92076/rctd-681",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-08-27",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:07.333Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

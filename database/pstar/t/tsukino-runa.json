@@ -1,0 +1,22 @@
+{
+  "slug": "tsukino-runa",
+  "name": "Tsukino Runa",
+  "letter": "t",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/09/23/9a7c504cf54fc7bcd817fcfd5cc29cc8.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCT-477",
+      "title": "RCT-477 Zamen dopyu dopyu Candy",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/09/23/9a7c504cf54fc7bcd817fcfd5cc29cc8.jpg",
+      "postUrl": "https://javtiful.com/video/68007/rct-477",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2024-09-23",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:17.795Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "bioka-satomi",
+  "name": "Bioka Satomi",
+  "letter": "b",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/21/d0ecb0c6f38f9f35aedfa27104c183d6.jpg",
+  "videoCount": 2,
+  "videos": [
+    {
+      "code": "RCTD-687",
+      "title": "RCTD-687 ROCKET 17th Anniversary User Request Festival Gender Swap Calendar ~The 10th of every month is Gender Swap Day~",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/09/20/88bbd6923e26b94d3543cd4863aefee5.jpg",
+      "postUrl": "https://javtiful.com/video/94084/rctd-687-reducing-mosaic",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-09-20",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    },
+    {
+      "code": "RCTD-748",
+      "title": "RCTD-748 ROCKET 18th Anniversary User Request Festival: AI Puppets ~Women Driven Mad By Fake AI Apps~",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/21/d0ecb0c6f38f9f35aedfa27104c183d6.jpg",
+      "postUrl": "https://javtiful.com/video/111222/rctd-748",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2026-07-21",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:02.742Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

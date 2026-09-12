@@ -1,0 +1,22 @@
+{
+  "slug": "hazuki-nanase",
+  "name": "Hazuki Nanase",
+  "letter": "h",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/12/07/1095e93f1a6445a239d18057377f5473.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCT-567",
+      "title": "RCT-567 The True Time-Stopping Watch Part 2 Do whatever you want in the Time-Stopping Hospital",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/12/07/1095e93f1a6445a239d18057377f5473.jpg",
+      "postUrl": "https://javtiful.com/video/73187/rct-567",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2024-12-07",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:15.845Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

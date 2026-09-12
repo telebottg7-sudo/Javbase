@@ -1,0 +1,22 @@
+{
+  "slug": "natsuhara-yui",
+  "name": "Natsuhara Yui",
+  "letter": "n",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/09/29/3ac68eade4c58c125d9becdb1f9350f1.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCTD-292",
+      "title": "RCTD-292 Where time really stops",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/09/29/3ac68eade4c58c125d9becdb1f9350f1.jpg",
+      "postUrl": "https://javtiful.com/video/94685/rctd-292-reducing-mosaic",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-09-29",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:05.376Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

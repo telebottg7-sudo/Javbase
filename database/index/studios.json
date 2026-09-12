@@ -1,8 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T18:06:57.599Z",
-  "totalCount": 4,
+  "updatedAt": "2026-09-12T18:10:01.664Z",
+  "totalCount": 5,
   "studios": [
+    {
+      "slug": "rocket",
+      "name": "Rocket",
+      "letter": "r",
+      "path": "studio/r/rocket.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/09/2fbd1a533e800918c7cf63558950d4b2.jpg",
+      "videoCount": 204,
+      "updatedAt": "2026-09-12T18:10:01.664Z"
+    },
     {
       "slug": "prestige",
       "name": "PRESTIGE",

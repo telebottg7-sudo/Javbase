@@ -1,0 +1,22 @@
+{
+  "slug": "itou-miyuu",
+  "name": "Itou Miyuu",
+  "letter": "i",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/04/06/e1309df39e78c31049f6e4733ed2a667.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCT-702",
+      "title": "RCT-702 Milli-Kupaa of the Battlefield",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/04/06/e1309df39e78c31049f6e4733ed2a667.jpg",
+      "postUrl": "https://javtiful.com/video/82394/rct-702",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-04-06",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:12.006Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

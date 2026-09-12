@@ -1,0 +1,22 @@
+{
+  "slug": "asakura-asuka",
+  "name": "Asakura Asuka",
+  "letter": "a",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/05/14/bc101b81d530312122c2f23c931d9bf3.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCT-749",
+      "title": "RCT-749 Delusion Item Ultimate Evolution Series: Psychic Mischief High School",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/05/14/bc101b81d530312122c2f23c931d9bf3.jpg",
+      "postUrl": "https://javtiful.com/video/84927/rct-749",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-05-14",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:10.352Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "chanyota",
+  "name": "Chanyota",
+  "letter": "c",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/09/06/4080c1bf6172ed6ba64dcc00b49a2b6f.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCTD-504",
+      "title": "RCTD-504 The ultimate evolution of fantasy items: The true time-stopping watch, Part 26",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/09/06/4080c1bf6172ed6ba64dcc00b49a2b6f.jpg",
+      "postUrl": "https://javtiful.com/video/92865/rctd-504-reducing-mosaic",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-09-06",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:06.313Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

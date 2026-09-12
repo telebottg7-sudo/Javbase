@@ -1,0 +1,22 @@
+{
+  "slug": "hirose-yuka",
+  "name": "Hirose Yuka",
+  "letter": "h",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/08/27/59be11a8c1627d05801aa45417151e0b.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCTD-500",
+      "title": "RCTD-500 Werewolf Game: Who is really in the trap?",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/08/27/59be11a8c1627d05801aa45417151e0b.jpg",
+      "postUrl": "https://javtiful.com/video/92050/rctd-500-reducing-mosaic",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-08-27",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:07.464Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}

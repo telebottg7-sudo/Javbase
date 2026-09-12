@@ -1,0 +1,22 @@
+{
+  "slug": "minami-riona",
+  "name": "Minami Riona",
+  "letter": "m",
+  "aliases": [],
+  "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/04/15/1cfe63b4c9ee02e18d6375bae93f5270.jpg",
+  "videoCount": 1,
+  "videos": [
+    {
+      "code": "RCT-715",
+      "title": "RCT-715 Challenge to beat 100 people Riona Minami",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/04/15/1cfe63b4c9ee02e18d6375bae93f5270.jpg",
+      "postUrl": "https://javtiful.com/video/83071/rct-715",
+      "studioSlug": "rocket",
+      "studioName": "Rocket",
+      "releaseDate": "2025-04-15",
+      "addedAt": "2026-09-12T18:10:01.664Z"
+    }
+  ],
+  "createdAt": "2026-09-12T18:10:11.355Z",
+  "updatedAt": "2026-09-12T18:10:01.664Z"
+}
