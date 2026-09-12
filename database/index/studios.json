@@ -1,8 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T18:10:01.664Z",
-  "totalCount": 5,
+  "updatedAt": "2026-09-12T18:15:13.184Z",
+  "totalCount": 6,
   "studios": [
+    {
+      "slug": "peters-max",
+      "name": "Peters MAX",
+      "letter": "p",
+      "path": "studio/p/peters-max.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/05/30/1aa1744757655a72e6c73fe1c176ad9a.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T18:15:13.184Z"
+    },
     {
       "slug": "rocket",
       "name": "Rocket",
@@ -18,8 +27,8 @@
       "letter": "p",
       "path": "studio/p/prestige.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/09/74479091316f90d17d103689f83ecc44.jpg",
-      "videoCount": 314,
-      "updatedAt": "2026-09-12T18:05:16.366Z"
+      "videoCount": 548,
+      "updatedAt": "2026-09-12T18:15:13.184Z"
     },
     {
       "slug": "madonna",
