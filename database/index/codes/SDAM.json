@@ -1,0 +1,42 @@
+{
+  "prefix": "SDAM",
+  "version": 1,
+  "updatedAt": "2026-09-12T17:13:04.950Z",
+  "totalCount": 1,
+  "codes": [
+    {
+      "code": "SDAM-181",
+      "title": "SDAM-181 Don’t Judge A Book By Its Cover—\"Black Gals\" Are Serious Too. She Transformed From A Wholesome Look To A \"Black Gal\" Style To Spread Gal Culture",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/113307/sdam-181",
+      "actress": {
+        "name": "Ciel Kururugi",
+        "slug": "ciel-kururugi"
+      },
+      "studio": {
+        "name": "SOD Create",
+        "slug": "sod-create"
+      },
+      "addedAt": "2026-09-12T17:13:04.950Z"
+    }
+  ],
+  "videos": [
+    {
+      "code": "SDAM-181",
+      "title": "SDAM-181 Don’t Judge A Book By Its Cover—\"Black Gals\" Are Serious Too. She Transformed From A Wholesome Look To A \"Black Gal\" Style To Spread Gal Culture",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/113307/sdam-181",
+      "actress": {
+        "name": "Ciel Kururugi",
+        "slug": "ciel-kururugi"
+      },
+      "studio": {
+        "name": "SOD Create",
+        "slug": "sod-create"
+      },
+      "addedAt": "2026-09-12T17:13:04.950Z"
+    }
+  ]
+}
