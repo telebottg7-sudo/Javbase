@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T18:15:13.184Z",
+  "updatedAt": "2026-09-12T18:15:59.965Z",
   "totalCount": 6,
   "studios": [
     {
@@ -27,8 +27,8 @@
       "letter": "p",
       "path": "studio/p/prestige.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/09/74479091316f90d17d103689f83ecc44.jpg",
-      "videoCount": 548,
-      "updatedAt": "2026-09-12T18:15:13.184Z"
+      "videoCount": 554,
+      "updatedAt": "2026-09-12T18:15:59.965Z"
     },
     {
       "slug": "madonna",
