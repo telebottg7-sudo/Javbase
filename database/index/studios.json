@@ -1,8 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T17:23:11.645Z",
-  "totalCount": 2,
+  "updatedAt": "2026-09-12T17:42:00.462Z",
+  "totalCount": 3,
   "studios": [
+    {
+      "slug": "madonna",
+      "name": "Madonna",
+      "letter": "m",
+      "path": "studio/m/madonna.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/19/dbf23f232653bcf080523cb8b504deea.jpg",
+      "videoCount": 46,
+      "updatedAt": "2026-09-12T17:42:00.462Z"
+    },
     {
       "slug": "s1-no1-style",
       "name": "S1 NO.1 STYLE",
