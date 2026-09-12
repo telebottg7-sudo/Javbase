@@ -1,14 +1,14 @@
 {
   "prefix": "SDMUA",
   "version": 1,
-  "updatedAt": "2026-09-12T17:15:44.658Z",
+  "updatedAt": "2026-09-12T17:23:13.744Z",
   "totalCount": 1,
   "codes": [
     {
       "code": "SDMUA-095",
       "title": "SDMUA-095 Maina Yuri Retirement: A 9-Year Career. The \"Last Inning\"—pouring Her Heart And Soul Into Sharing Everything With You",
-      "releaseDate": null,
-      "thumbnail": null,
+      "releaseDate": "2026-07-27",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/28/e1628f648215c6dab30ebe524fc58e7c.jpg",
       "postUrl": "https://javtiful.com/video/111516/sdmua-095",
       "actress": {
         "name": "Yuri Maina",
@@ -17,16 +17,15 @@
       "studio": {
         "name": "SOD Create",
         "slug": "sod-create"
-      },
-      "addedAt": "2026-09-12T17:15:44.658Z"
+      }
     }
   ],
   "videos": [
     {
       "code": "SDMUA-095",
       "title": "SDMUA-095 Maina Yuri Retirement: A 9-Year Career. The \"Last Inning\"—pouring Her Heart And Soul Into Sharing Everything With You",
-      "releaseDate": null,
-      "thumbnail": null,
+      "releaseDate": "2026-07-27",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/28/e1628f648215c6dab30ebe524fc58e7c.jpg",
       "postUrl": "https://javtiful.com/video/111516/sdmua-095",
       "actress": {
         "name": "Yuri Maina",
@@ -35,8 +34,7 @@
       "studio": {
         "name": "SOD Create",
         "slug": "sod-create"
-      },
-      "addedAt": "2026-09-12T17:15:44.658Z"
+      }
     }
   ]
 }

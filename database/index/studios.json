@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T17:15:36.051Z",
-  "totalCount": 1,
+  "updatedAt": "2026-09-12T17:23:11.645Z",
+  "totalCount": 2,
   "studios": [
+    {
+      "slug": "s1-no1-style",
+      "name": "S1 NO.1 STYLE",
+      "letter": "s",
+      "path": "studio/s/s1-no1-style.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/07/29/bea11cdde7876846a866348e746457cf.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-12T17:23:11.645Z"
+    },
     {
       "slug": "sod-create",
       "name": "SOD Create",
       "letter": "s",
       "path": "studio/s/sod-create.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/9245ae4e6541b55a7d234180c7f9d071.jpg",
-      "videoCount": 159,
-      "updatedAt": "2026-09-12T17:15:36.051Z"
+      "videoCount": 444,
+      "updatedAt": "2026-09-12T17:23:11.645Z"
     }
   ]
 }
