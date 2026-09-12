@@ -1,8 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12T18:05:16.366Z",
-  "totalCount": 259,
+  "updatedAt": "2026-09-12T18:06:57.599Z",
+  "totalCount": 260,
   "actresses": [
+    {
+      "slug": "kuramoto-sumire",
+      "name": "Kuramoto Sumire",
+      "letter": "k",
+      "path": "pstar/k/kuramoto-sumire.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/collections/actresses/2026/04/27/18dd1f26d7e014754e752512803829b2.jpg",
+      "videoCount": 18,
+      "updatedAt": "2026-09-12T18:06:57.599Z"
+    },
     {
       "slug": "minoshima-meguri",
       "name": "Minoshima Meguri",
