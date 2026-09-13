@@ -1,14 +1,14 @@
 {
   "prefix": "NIMA",
   "version": 1,
-  "updatedAt": "2026-09-12T18:21:11.369Z",
+  "updatedAt": "2026-09-13T13:47:48.437Z",
   "totalCount": 1,
   "codes": [
     {
       "code": "NIMA-083",
       "title": "NIMA-083 Live-action Version! The Clumsy Duo - Kanna Misaki",
-      "releaseDate": null,
-      "thumbnail": null,
+      "releaseDate": "2026-09-12",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/3e57125811fedf494962894ec1acb250.jpg",
       "postUrl": "https://javtiful.com/video/113519/nima-083-reducing-mosaic",
       "actress": {
         "name": "Misaki Kanna",
@@ -17,16 +17,15 @@
       "studio": {
         "name": "Fitch",
         "slug": "fitch"
-      },
-      "addedAt": "2026-09-12T18:21:11.369Z"
+      }
     }
   ],
   "videos": [
     {
       "code": "NIMA-083",
       "title": "NIMA-083 Live-action Version! The Clumsy Duo - Kanna Misaki",
-      "releaseDate": null,
-      "thumbnail": null,
+      "releaseDate": "2026-09-12",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/3e57125811fedf494962894ec1acb250.jpg",
       "postUrl": "https://javtiful.com/video/113519/nima-083-reducing-mosaic",
       "actress": {
         "name": "Misaki Kanna",
@@ -35,8 +34,7 @@
       "studio": {
         "name": "Fitch",
         "slug": "fitch"
-      },
-      "addedAt": "2026-09-12T18:21:11.369Z"
+      }
     }
   ]
 }
