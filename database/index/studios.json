@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T13:45:51.019Z",
+  "updatedAt": "2026-09-13T13:47:23.424Z",
   "totalCount": 20,
   "studios": [
     {
@@ -9,8 +9,8 @@
       "letter": "d",
       "path": "studio/d/das.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/19/d84a2fda8a57b4fc804e9e8b8dd3acbc.jpg",
-      "videoCount": 74,
-      "updatedAt": "2026-09-13T13:45:51.019Z"
+      "videoCount": 115,
+      "updatedAt": "2026-09-13T13:47:23.424Z"
     },
     {
       "slug": "premium",
