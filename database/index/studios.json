@@ -1,8 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T15:50:35.720Z",
-  "totalCount": 25,
+  "updatedAt": "2026-09-16T15:52:44.723Z",
+  "totalCount": 26,
   "studios": [
+    {
+      "slug": "hunter",
+      "name": "Hunter",
+      "letter": "h",
+      "path": "studio/h/hunter.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/09/a6ceb454a44789edd4cf682788264037.jpg",
+      "videoCount": 207,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
     {
       "slug": "yama-to-sora",
       "name": "Yama To Sora",

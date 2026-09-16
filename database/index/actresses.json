@@ -1,8 +1,413 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T15:50:35.720Z",
-  "totalCount": 555,
+  "updatedAt": "2026-09-16T15:52:44.723Z",
+  "totalCount": 600,
   "actresses": [
+    {
+      "slug": "akari-nonoka",
+      "name": "Akari Nonoka",
+      "letter": "a",
+      "path": "pstar/a/akari-nonoka.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/10/09/c6a94ffb7bc59e641678f8ab99c4b459.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "amano-noa",
+      "name": "Amano Noa",
+      "letter": "a",
+      "path": "pstar/a/amano-noa.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/10/20/0c9fb6f9da66305153552eff38347961.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "kurumi-sakura",
+      "name": "Kurumi Sakura",
+      "letter": "k",
+      "path": "pstar/k/kurumi-sakura.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/10/23/8886d14efb8be6ee60b2b731c3d8d80a.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "haruno-ruru",
+      "name": "Haruno Ruru",
+      "letter": "h",
+      "path": "pstar/h/haruno-ruru.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/10/23/53b78923b0f1ebf8a056740288405432.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "umino-ikura",
+      "name": "Umino Ikura",
+      "letter": "u",
+      "path": "pstar/u/umino-ikura.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/11/21/508db6d9d5473dd6eb4569e564e7dd55.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "chizuru-ema",
+      "name": "Chizuru Ema",
+      "letter": "c",
+      "path": "pstar/c/chizuru-ema.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/11/21/107012b15c67324f88badf7ad90c5209.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "otori-karen",
+      "name": "Otori Karen",
+      "letter": "o",
+      "path": "pstar/o/otori-karen.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/12/19/7e495667b42a66e367b1372d409130ac.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "hinagiku-tsubasa",
+      "name": "Hinagiku Tsubasa",
+      "letter": "h",
+      "path": "pstar/h/hinagiku-tsubasa.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/01/03/721369dc6868a3c41e3f61b91815c1d6.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "kamisaka-tomoko",
+      "name": "Kamisaka Tomoko",
+      "letter": "k",
+      "path": "pstar/k/kamisaka-tomoko.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/01/23/006322025e0a6ebd6403428603c0e7dc.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "aino-hinata",
+      "name": "Aino Hinata",
+      "letter": "a",
+      "path": "pstar/a/aino-hinata.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/01/29/0082f26ff724edd870da8cec587b0f13.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "akari-tomoka",
+      "name": "Akari Tomoka",
+      "letter": "a",
+      "path": "pstar/a/akari-tomoka.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/02/04/9b44e46b741e4f0229418c4624d45221.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "arimura-nozomi",
+      "name": "Arimura Nozomi",
+      "letter": "a",
+      "path": "pstar/a/arimura-nozomi.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/02/22/7b7aa14875959b4f3df77cbf7097075e.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "ayase-himari",
+      "name": "Ayase Himari",
+      "letter": "a",
+      "path": "pstar/a/ayase-himari.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/02/22/247556c61e3e50cd29f433bef36e8e08.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "adachi-yuri",
+      "name": "Adachi Yuri",
+      "letter": "a",
+      "path": "pstar/a/adachi-yuri.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/02/22/c6b5eda750d229785812c63c97c2c851.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "ichii-yuka",
+      "name": "Ichii Yuka",
+      "letter": "i",
+      "path": "pstar/i/ichii-yuka.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/02/22/ee03ebc0f944e67a9d4798ea8f7399a9.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "onosaka-yuika",
+      "name": "Onosaka Yuika",
+      "letter": "o",
+      "path": "pstar/o/onosaka-yuika.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/02/23/584fb14f92ad0cd478516c5cd88245ea.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "andou-haru",
+      "name": "Andou Haru",
+      "letter": "a",
+      "path": "pstar/a/andou-haru.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/03/07/ba504f8d763573d1d8fec4e902e959c8.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "aizawa-riku",
+      "name": "Aizawa Riku",
+      "letter": "a",
+      "path": "pstar/a/aizawa-riku.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/03/07/69fa422909ff457245db57c052c5cc30.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "fujita-yuzu",
+      "name": "Fujita Yuzu",
+      "letter": "f",
+      "path": "pstar/f/fujita-yuzu.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/03/07/df6bba1524f349c2f33895c651b59b88.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "torai-fuu",
+      "name": "Torai Fuu",
+      "letter": "t",
+      "path": "pstar/t/torai-fuu.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/03/20/aa42082d06197da2cb14f091c299e502.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "yura-kana",
+      "name": "Yura Kana",
+      "letter": "y",
+      "path": "pstar/y/yura-kana.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/03/21/5b912d75a8932c22af2e226f06782195.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "honoka-airi",
+      "name": "Honoka Airi",
+      "letter": "h",
+      "path": "pstar/h/honoka-airi.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/04/24/98df1bb97be614ed011d27e30a33e6cd.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "honoka-ashina",
+      "name": "Honoka Ashina",
+      "letter": "h",
+      "path": "pstar/h/honoka-ashina.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/08/a40b5c165cad340199b701bc575c4dd2.jpg",
+      "videoCount": 3,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "minatsuki-hikaru",
+      "name": "Minatsuki Hikaru",
+      "letter": "m",
+      "path": "pstar/m/minatsuki-hikaru.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/08/19ec98f64a07d01324b390f49662687c.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "honda-hitomi",
+      "name": "Honda Hitomi",
+      "letter": "h",
+      "path": "pstar/h/honda-hitomi.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/08/0fd72b12fe8c2aa6f24e83e9dabd8896.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "miyanishi-hikaru",
+      "name": "Miyanishi Hikaru",
+      "letter": "m",
+      "path": "pstar/m/miyanishi-hikaru.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/06/d105eccfecdf48df6d2272b90f3d135c.jpg",
+      "videoCount": 5,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "shiraishi-nagisa",
+      "name": "Shiraishi Nagisa",
+      "letter": "s",
+      "path": "pstar/s/shiraishi-nagisa.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/06/ab5d884b6fc9d3b774fdfb4cfe576909.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "masako-rina",
+      "name": "Masako Rina",
+      "letter": "m",
+      "path": "pstar/m/masako-rina.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/06/4c4fb8d3499b2c7071fdf593f6c49460.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "arima-miku",
+      "name": "Arima Miku",
+      "letter": "a",
+      "path": "pstar/a/arima-miku.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/20/d03246aba2c9c2e6775582f9670650c7.jpg",
+      "videoCount": 4,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "fukada-yuuri",
+      "name": "Fukada Yuuri",
+      "letter": "f",
+      "path": "pstar/f/fukada-yuuri.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/24/e46facad43bedb7ee1d83d1dad556da4.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "ichikawa-ema",
+      "name": "Ichikawa Ema",
+      "letter": "i",
+      "path": "pstar/i/ichikawa-ema.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/24/fc67bbf8e67f2432f75fe0ca4cbdd6ae.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "kamisaka-mei",
+      "name": "Kamisaka Mei",
+      "letter": "k",
+      "path": "pstar/k/kamisaka-mei.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/24/cd094e7e8e480224b755d3cd25d709fe.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "kobashi-saki",
+      "name": "Kobashi Saki",
+      "letter": "k",
+      "path": "pstar/k/kobashi-saki.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/25/357dad9713012836d09c247eccde311a.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "arisu-ruru",
+      "name": "Arisu Ruru",
+      "letter": "a",
+      "path": "pstar/a/arisu-ruru.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/11/e1fb5fa25e258187cea39e7bf65e2692.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "ayami-mori",
+      "name": "Ayami Mori",
+      "letter": "a",
+      "path": "pstar/a/ayami-mori.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/12/1b47675a0f70bafa65d42dc596439aca.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "aona-miu",
+      "name": "Aona Miu",
+      "letter": "a",
+      "path": "pstar/a/aona-miu.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/18/8936d17e0a71aa3edf8e0e6fc647fc2c.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "narumi-sayaka",
+      "name": "Narumi Sayaka",
+      "letter": "n",
+      "path": "pstar/n/narumi-sayaka.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/20/98696828e757b4f1261484cfcfc53b0f.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "kawai-haruna",
+      "name": "Kawai Haruna",
+      "letter": "k",
+      "path": "pstar/k/kawai-haruna.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/07/24/4d86f933f148147a788dc5c2ffa495c1.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "kaise-anju",
+      "name": "Kaise Anju",
+      "letter": "k",
+      "path": "pstar/k/kaise-anju.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/02/cc171221f2bc34d45d1bffceadef4283.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "imada-mirei",
+      "name": "Imada Mirei",
+      "letter": "i",
+      "path": "pstar/i/imada-mirei.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/03/433f368eb91169cd7387f8479e75ba0a.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "fujii-reira",
+      "name": "Fujii Reira",
+      "letter": "f",
+      "path": "pstar/f/fujii-reira.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/08/d8edbccd159a24dea2e0e6217321ed0d.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "andou-haruno",
+      "name": "Andou Haruno",
+      "letter": "a",
+      "path": "pstar/a/andou-haruno.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/24/3ce19c3769b5879c2eafdcf870fb1464.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "kosuzu-mikan",
+      "name": "Kosuzu Mikan",
+      "letter": "k",
+      "path": "pstar/k/kosuzu-mikan.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/04/fab7c1a0a5b0518833609aeab6e5bbae.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "izumi-rion",
+      "name": "Izumi Rion",
+      "letter": "i",
+      "path": "pstar/i/izumi-rion.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/04/9688573e04f975f76219a8f0a7377fb8.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
+    {
+      "slug": "adachi-meru",
+      "name": "Adachi Meru",
+      "letter": "a",
+      "path": "pstar/a/adachi-meru.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/09/a6ceb454a44789edd4cf682788264037.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
+    },
     {
       "slug": "sannomiya-tsubaki",
       "name": "Sannomiya Tsubaki",
@@ -621,8 +1026,8 @@
       "letter": "t",
       "path": "pstar/t/tenma-yui.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2022/09/09/23b6927a88ce13ae2023abe4986d7a83.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-13T13:47:23.424Z"
+      "videoCount": 3,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "yuina-mitsuki",
@@ -747,8 +1152,8 @@
       "letter": "m",
       "path": "pstar/m/mizuhara-misono.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2022/05/20/df2d417f3b6ae5a5deb859f783d9ef9d.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-13T13:47:23.424Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "aimi-rika",
@@ -774,8 +1179,8 @@
       "letter": "i",
       "path": "pstar/i/iioka-kanako.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/04/07/3dced9d9479ed9ec1270734cd7f9a602.jpg",
-      "videoCount": 4,
-      "updatedAt": "2026-09-16T15:38:24.114Z"
+      "videoCount": 5,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "shishido-riho",
@@ -864,8 +1269,8 @@
       "letter": "h",
       "path": "pstar/h/haruna-noa.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/08/892c539ac5009ebc4e3a0091704d717e.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-13T13:45:51.019Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "kitano-mina",
@@ -882,8 +1287,8 @@
       "letter": "n",
       "path": "pstar/n/nagasaki-yukine.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/08/96c5c8d12f124818a53a808068fdd407.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-13T13:45:51.019Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "minami-momo",
@@ -936,8 +1341,8 @@
       "letter": "h",
       "path": "pstar/h/hanazawa-himari.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/26/35dbf27e6e8775a50240a97081f59c88.jpg",
-      "videoCount": 6,
-      "updatedAt": "2026-09-16T15:38:24.114Z"
+      "videoCount": 7,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "natsume-reika",
@@ -1062,8 +1467,8 @@
       "letter": "a",
       "path": "pstar/a/aizawa-miyu.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/9f498cad4e238219fc73139490b82705.jpg",
-      "videoCount": 3,
-      "updatedAt": "2026-09-13T13:45:51.019Z"
+      "videoCount": 8,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "kibou-miu",
@@ -1161,8 +1566,8 @@
       "letter": "h",
       "path": "pstar/h/hanamori-kaho.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/c61935170e444fc61761ab92ecd64a3a.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-12T18:21:05.366Z"
+      "videoCount": 4,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "tsukinoe-sui",
@@ -1386,8 +1791,8 @@
       "letter": "h",
       "path": "pstar/h/hinata-umi.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/09/08/b6a028d76d9f9b5054254cd3b7c3bf5a.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "hirashima-chiho",
@@ -1503,8 +1908,8 @@
       "letter": "a",
       "path": "pstar/a/ashina-yuria.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/10/18/3a4d9ca5ba5801946e38a48dfdcde13f.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "onoue-wakaba",
@@ -1656,8 +2061,8 @@
       "letter": "m",
       "path": "pstar/m/mochizuki-tsubomi.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/01/06/6604c78a380bed672e96f65e903ac900.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "isumi-rion",
@@ -1971,8 +2376,8 @@
       "letter": "a",
       "path": "pstar/a/amatsuki-azu.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/05/05/7f2204b4850d941a2b2ec7e3ff725671.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 4,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "hatano-yui",
@@ -2421,8 +2826,8 @@
       "letter": "i",
       "path": "pstar/i/isshiki-sara.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/11/25/56275b7119c356cc82aab3a7a987626a.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "kikuchi-haru",
@@ -2430,8 +2835,8 @@
       "letter": "k",
       "path": "pstar/k/kikuchi-haru.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/11/25/d49ed722f0ea2a4224be536ed4c83469.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "aiga-mizuki",
@@ -2448,8 +2853,8 @@
       "letter": "h",
       "path": "pstar/h/hirose-narumi.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/01/19/98088cc28a30a66cff560b976cf6596d.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "miki-hinano",
@@ -2457,8 +2862,8 @@
       "letter": "m",
       "path": "pstar/m/miki-hinano.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/01/19/ff40fd29e4ad6495e428b47ebff0d293.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "chino-azumi",
@@ -2475,8 +2880,8 @@
       "letter": "s",
       "path": "pstar/s/sakura-mahiru.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/01/25/21950d7f0e12538e36933727d3e855f9.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 5,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "sazanami-aya",
@@ -2556,8 +2961,8 @@
       "letter": "a",
       "path": "pstar/a/amemiya-hibiki.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/04/11/bb7dcb32496fe7d044892a03c50edc93.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 3,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "hanai-tsubaki",
@@ -2565,8 +2970,8 @@
       "letter": "h",
       "path": "pstar/h/hanai-tsubaki.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/06/d7aace3d5c534ce455880dee1b30a9b8.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-13T13:45:51.019Z"
+      "videoCount": 3,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "hinata-yuna",
@@ -2574,8 +2979,8 @@
       "letter": "h",
       "path": "pstar/h/hinata-yuna.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/21/3574a93f180eb99acf6778c12cbaf5e0.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-12T18:21:05.366Z"
+      "videoCount": 4,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "aina-ai",
@@ -2853,8 +3258,8 @@
       "letter": "m",
       "path": "pstar/m/minami-hinano.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/11/04/370b0b97279715b8eddc1b4d10e46420.jpg",
-      "videoCount": 3,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 4,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "aoi-mizuho",
@@ -3096,8 +3501,8 @@
       "letter": "k",
       "path": "pstar/k/kashiwagi-konatsu.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2025/02/28/fc537bfab204aae1c72eced5c0699258.jpg",
-      "videoCount": 5,
-      "updatedAt": "2026-09-12T17:56:27.558Z"
+      "videoCount": 10,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "miyazaki-rin",
@@ -3519,8 +3924,8 @@
       "letter": "s",
       "path": "pstar/s/suehiro-jun.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2022/07/08/b8b7ee3e6396ea9fbb9016508b3d2319.jpg",
-      "videoCount": 6,
-      "updatedAt": "2026-09-16T15:41:46.813Z"
+      "videoCount": 7,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "matsuo-rie",
@@ -4527,8 +4932,8 @@
       "letter": "m",
       "path": "pstar/m/matsumoto-ichika.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/03/37280ed5fa9b5bd6fea6d6490363173c.jpg",
-      "videoCount": 8,
-      "updatedAt": "2026-09-13T13:47:23.424Z"
+      "videoCount": 9,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "misaki-hikari",
@@ -4599,8 +5004,8 @@
       "letter": "a",
       "path": "pstar/a/aoi-yurika.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/02/8bfed38203b0b587f951281610cb9d12.jpg",
-      "videoCount": 3,
-      "updatedAt": "2026-09-13T13:45:51.019Z"
+      "videoCount": 4,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "kudou-yura",
@@ -4671,8 +5076,8 @@
       "letter": "i",
       "path": "pstar/i/itoi-ruka.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/30/8e8a6600fa8b0ed494ff85917ee9f0d8.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-12T18:10:01.664Z"
+      "videoCount": 3,
+      "updatedAt": "2026-09-16T15:52:44.723Z"
     },
     {
       "slug": "shiraishi-marina",
