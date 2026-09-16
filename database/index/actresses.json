@@ -1,8 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T15:45:57.715Z",
-  "totalCount": 550,
+  "updatedAt": "2026-09-16T15:50:35.720Z",
+  "totalCount": 555,
   "actresses": [
+    {
+      "slug": "sannomiya-tsubaki",
+      "name": "Sannomiya Tsubaki",
+      "letter": "s",
+      "path": "pstar/s/sannomiya-tsubaki.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/01/e4c222f96989050ad90ebcfc5c4d941e.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
+    },
+    {
+      "slug": "hoshino-nami",
+      "name": "Hoshino Nami",
+      "letter": "h",
+      "path": "pstar/h/hoshino-nami.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/29/357f2ec77e1d2232578e27bf1f7e8b3b.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
+    },
+    {
+      "slug": "azusa-hikari",
+      "name": "Azusa Hikari",
+      "letter": "a",
+      "path": "pstar/a/azusa-hikari.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/29/7c90e0ad22f0f288c2af7d5715985e13.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
+    },
+    {
+      "slug": "natsume-iroha",
+      "name": "Natsume Iroha",
+      "letter": "n",
+      "path": "pstar/n/natsume-iroha.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/08/29/cd0f570988f8a575e3febafd3f84126f.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
+    },
+    {
+      "slug": "ebisaki-ao",
+      "name": "Ebisaki Ao",
+      "letter": "e",
+      "path": "pstar/e/ebisaki-ao.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/03/85b392953ea644e2311c6f1f6ffad022.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
+    },
     {
       "slug": "yoshizawa-yuki",
       "name": "Yoshizawa Yuki",
@@ -36,8 +81,8 @@
       "letter": "k",
       "path": "pstar/k/kotou-mariko.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/11/22/074dff036de1e1316bc467bf814c2239.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-16T15:45:57.715Z"
+      "videoCount": 3,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
     },
     {
       "slug": "satsuki-fumino",
@@ -72,8 +117,8 @@
       "letter": "o",
       "path": "pstar/o/ono-rinka.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/11/08/1bdbb7eba6d9135d6c8ec7be9284bdfa.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-16T15:45:57.715Z"
+      "videoCount": 3,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
     },
     {
       "slug": "yao-mayuka",
@@ -639,8 +684,8 @@
       "letter": "k",
       "path": "pstar/k/kawakita-meisa.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2022/06/24/6ce899926dc9c5c970bbe2a4d570c61b.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-13T13:47:23.424Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
     },
     {
       "slug": "yuuki-ai",
@@ -1134,8 +1179,8 @@
       "letter": "s",
       "path": "pstar/s/shiromine-miu.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/e9f92659c3ef705d52d0fe21e6425e52.jpg",
-      "videoCount": 4,
-      "updatedAt": "2026-09-13T13:45:51.019Z"
+      "videoCount": 6,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
     },
     {
       "slug": "meguri",
@@ -3366,8 +3411,8 @@
       "letter": "k",
       "path": "pstar/k/kuriyama-rio.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2022/07/22/7e403786fdb7bf304e6a4118b1415f87.jpg",
-      "videoCount": 10,
-      "updatedAt": "2026-09-16T15:45:57.715Z"
+      "videoCount": 11,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
     },
     {
       "slug": "kimitsuka-hinata",
@@ -4428,8 +4473,8 @@
       "letter": "s",
       "path": "pstar/s/satsuki-nao.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/01/22/0ac490eade8d9ff8395487438b55b394.jpg",
-      "videoCount": 17,
-      "updatedAt": "2026-09-13T13:45:51.019Z"
+      "videoCount": 18,
+      "updatedAt": "2026-09-16T15:50:35.720Z"
     },
     {
       "slug": "ayase-ten",
