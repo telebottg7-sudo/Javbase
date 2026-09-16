@@ -1,0 +1,42 @@
+{
+  "prefix": "OFES",
+  "version": 1,
+  "updatedAt": "2026-09-16T15:52:57.012Z",
+  "totalCount": 1,
+  "codes": [
+    {
+      "code": "OFES-036",
+      "title": "OFES-036 I Came To The Pool With My Aunt For Swimming Practice",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/110184/ofes-036",
+      "actress": {
+        "name": "Iioka Kanako",
+        "slug": "iioka-kanako"
+      },
+      "studio": {
+        "name": "Hunter",
+        "slug": "hunter"
+      },
+      "addedAt": "2026-09-16T15:52:57.012Z"
+    }
+  ],
+  "videos": [
+    {
+      "code": "OFES-036",
+      "title": "OFES-036 I Came To The Pool With My Aunt For Swimming Practice",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/110184/ofes-036",
+      "actress": {
+        "name": "Iioka Kanako",
+        "slug": "iioka-kanako"
+      },
+      "studio": {
+        "name": "Hunter",
+        "slug": "hunter"
+      },
+      "addedAt": "2026-09-16T15:52:57.012Z"
+    }
+  ]
+}
