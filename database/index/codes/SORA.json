@@ -1,25 +1,9 @@
 {
   "prefix": "SORA",
   "version": 1,
-  "updatedAt": "2026-09-16T15:23:27.116Z",
+  "updatedAt": "2026-09-16T15:31:04.320Z",
   "totalCount": 2,
   "codes": [
-    {
-      "code": "SORA-243",
-      "title": "SORA-243 Chin Loves Irama Who Has One Person Experience, But It ’s Just One Person, But It ’s Over 300",
-      "releaseDate": null,
-      "thumbnail": null,
-      "postUrl": "https://javtiful.com/video/113596/sora-243-reducing-mosaic",
-      "actress": {
-        "name": "Kagami Mari",
-        "slug": "kagami-mari"
-      },
-      "studio": {
-        "name": "Yama To Sora",
-        "slug": "yama-to-sora"
-      },
-      "addedAt": "2026-09-16T15:23:27.116Z"
-    },
     {
       "code": "SORA-241",
       "title": "SORA-241 Former Reggae Dancer Active English Teacher 28 Years Old. Addicted To The Affair Exposure Training That Can Not Be Turned Back",
@@ -33,28 +17,26 @@
       "studio": {
         "name": "Yama To Sora",
         "slug": "yama-to-sora"
+      }
+    },
+    {
+      "code": "SORA-243",
+      "title": "SORA-243 Chin Loves Irama Who Has One Person Experience, But It ’s Just One Person, But It ’s Over 300",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/113596/sora-243-reducing-mosaic",
+      "actress": {
+        "name": "Kagami Mari",
+        "slug": "kagami-mari"
       },
-      "addedAt": "2026-09-16T15:23:27.116Z"
+      "studio": {
+        "name": "Yama To Sora",
+        "slug": "yama-to-sora"
+      }
     }
   ],
   "videos": [
     {
-      "code": "SORA-243",
-      "title": "SORA-243 Chin Loves Irama Who Has One Person Experience, But It ’s Just One Person, But It ’s Over 300",
-      "releaseDate": null,
-      "thumbnail": null,
-      "postUrl": "https://javtiful.com/video/113596/sora-243-reducing-mosaic",
-      "actress": {
-        "name": "Kagami Mari",
-        "slug": "kagami-mari"
-      },
-      "studio": {
-        "name": "Yama To Sora",
-        "slug": "yama-to-sora"
-      },
-      "addedAt": "2026-09-16T15:23:27.116Z"
-    },
-    {
       "code": "SORA-241",
       "title": "SORA-241 Former Reggae Dancer Active English Teacher 28 Years Old. Addicted To The Affair Exposure Training That Can Not Be Turned Back",
       "releaseDate": null,
@@ -67,8 +49,22 @@
       "studio": {
         "name": "Yama To Sora",
         "slug": "yama-to-sora"
+      }
+    },
+    {
+      "code": "SORA-243",
+      "title": "SORA-243 Chin Loves Irama Who Has One Person Experience, But It ’s Just One Person, But It ’s Over 300",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/113596/sora-243-reducing-mosaic",
+      "actress": {
+        "name": "Kagami Mari",
+        "slug": "kagami-mari"
       },
-      "addedAt": "2026-09-16T15:23:27.116Z"
+      "studio": {
+        "name": "Yama To Sora",
+        "slug": "yama-to-sora"
+      }
     }
   ]
 }

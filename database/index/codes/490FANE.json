@@ -1,7 +1,7 @@
 {
   "prefix": "490FANE",
   "version": 1,
-  "updatedAt": "2026-09-16T15:23:27.116Z",
+  "updatedAt": "2026-09-16T15:31:04.111Z",
   "totalCount": 1,
   "codes": [
     {
@@ -14,7 +14,7 @@
         "name": "Haruna Hana",
         "slug": "haruna-hana"
       },
-      "addedAt": "2026-09-16T15:23:27.116Z"
+      "studio": null
     }
   ],
   "videos": [
@@ -28,7 +28,7 @@
         "name": "Haruna Hana",
         "slug": "haruna-hana"
       },
-      "addedAt": "2026-09-16T15:23:27.116Z"
+      "studio": null
     }
   ]
 }

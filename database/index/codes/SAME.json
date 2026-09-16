@@ -1,24 +1,9 @@
 {
   "prefix": "SAME",
   "version": 1,
-  "updatedAt": "2026-09-16T15:26:51.111Z",
+  "updatedAt": "2026-09-16T15:31:04.252Z",
   "totalCount": 4,
   "codes": [
-    {
-      "code": "SAME-234",
-      "title": "SAME-234 Sold By Her Husband To Be A Sex Toy For A Virile Yakuza",
-      "releaseDate": "2026-04-30",
-      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/e9f92659c3ef705d52d0fe21e6425e52.jpg",
-      "postUrl": "https://javtiful.com/video/107075/same-234",
-      "actress": {
-        "name": "Shiromine Miu",
-        "slug": "shiromine-miu"
-      },
-      "studio": {
-        "name": "Attackers",
-        "slug": "attackers"
-      }
-    },
     {
       "code": "SAME-030",
       "title": "SAME-030 Misato, A Newlywed, Is Made To Play The Most Problematic Sex Toy In The School",
@@ -29,19 +14,7 @@
         "name": "Kijima Airi",
         "slug": "kijima-airi"
       },
-      "addedAt": "2026-09-16T15:26:26.013Z"
-    },
-    {
-      "code": "SAME-061",
-      "title": "SAME-061 If you lose, let me have sex with your wife",
-      "releaseDate": null,
-      "thumbnail": null,
-      "postUrl": "https://javtiful.com/video/36001/same-061",
-      "actress": {
-        "name": "Kijima Airi",
-        "slug": "kijima-airi"
-      },
-      "addedAt": "2026-09-16T15:26:51.111Z"
+      "studio": null
     },
     {
       "code": "SAME-056",
@@ -53,26 +26,38 @@
         "name": "Kijima Airi",
         "slug": "kijima-airi"
       },
-      "addedAt": "2026-09-16T15:26:51.111Z"
+      "studio": null
+    },
+    {
+      "code": "SAME-061",
+      "title": "SAME-061 If you lose, let me have sex with your wife",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/36001/same-061",
+      "actress": {
+        "name": "Kijima Airi",
+        "slug": "kijima-airi"
+      },
+      "studio": null
+    },
+    {
+      "code": "SAME-234",
+      "title": "SAME-234 Sold By Her Husband To Be A Sex Toy For A Virile Yakuza",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/107075/same-234",
+      "actress": {
+        "name": "Shiromine Miu",
+        "slug": "shiromine-miu"
+      },
+      "studio": {
+        "name": "Attackers",
+        "slug": "attackers"
+      }
     }
   ],
   "videos": [
     {
-      "code": "SAME-234",
-      "title": "SAME-234 Sold By Her Husband To Be A Sex Toy For A Virile Yakuza",
-      "releaseDate": "2026-04-30",
-      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/e9f92659c3ef705d52d0fe21e6425e52.jpg",
-      "postUrl": "https://javtiful.com/video/107075/same-234",
-      "actress": {
-        "name": "Shiromine Miu",
-        "slug": "shiromine-miu"
-      },
-      "studio": {
-        "name": "Attackers",
-        "slug": "attackers"
-      }
-    },
-    {
       "code": "SAME-030",
       "title": "SAME-030 Misato, A Newlywed, Is Made To Play The Most Problematic Sex Toy In The School",
       "releaseDate": null,
@@ -82,19 +67,7 @@
         "name": "Kijima Airi",
         "slug": "kijima-airi"
       },
-      "addedAt": "2026-09-16T15:26:26.013Z"
-    },
-    {
-      "code": "SAME-061",
-      "title": "SAME-061 If you lose, let me have sex with your wife",
-      "releaseDate": null,
-      "thumbnail": null,
-      "postUrl": "https://javtiful.com/video/36001/same-061",
-      "actress": {
-        "name": "Kijima Airi",
-        "slug": "kijima-airi"
-      },
-      "addedAt": "2026-09-16T15:26:51.111Z"
+      "studio": null
     },
     {
       "code": "SAME-056",
@@ -106,7 +79,34 @@
         "name": "Kijima Airi",
         "slug": "kijima-airi"
       },
-      "addedAt": "2026-09-16T15:26:51.111Z"
+      "studio": null
+    },
+    {
+      "code": "SAME-061",
+      "title": "SAME-061 If you lose, let me have sex with your wife",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/36001/same-061",
+      "actress": {
+        "name": "Kijima Airi",
+        "slug": "kijima-airi"
+      },
+      "studio": null
+    },
+    {
+      "code": "SAME-234",
+      "title": "SAME-234 Sold By Her Husband To Be A Sex Toy For A Virile Yakuza",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/107075/same-234",
+      "actress": {
+        "name": "Shiromine Miu",
+        "slug": "shiromine-miu"
+      },
+      "studio": {
+        "name": "Attackers",
+        "slug": "attackers"
+      }
     }
   ]
 }

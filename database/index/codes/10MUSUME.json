@@ -1,14 +1,14 @@
 {
   "prefix": "10MUSUME",
   "version": 1,
-  "updatedAt": "2026-09-16T15:23:27.116Z",
+  "updatedAt": "2026-09-16T15:31:04.014Z",
   "totalCount": 2,
   "codes": [
     {
       "code": "10MUSUME-091026-01",
       "title": "10Musume 091026_01 Very First Shooting: Aya Hamanaka",
-      "releaseDate": "2026-09-10",
-      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/b0c250e7d04cad6df9e70b3d32ac5321.jpg",
+      "releaseDate": null,
+      "thumbnail": null,
       "postUrl": "https://javtiful.com/video/113351/10musume",
       "actress": {
         "name": "Aya Hamanaka",
@@ -25,19 +25,19 @@
       "releaseDate": null,
       "thumbnail": null,
       "postUrl": "https://javtiful.com/video/113584/10musume",
+      "actress": null,
       "studio": {
         "name": "10Musume",
         "slug": "10musume"
-      },
-      "addedAt": "2026-09-16T15:23:27.116Z"
+      }
     }
   ],
   "videos": [
     {
       "code": "10MUSUME-091026-01",
       "title": "10Musume 091026_01 Very First Shooting: Aya Hamanaka",
-      "releaseDate": "2026-09-10",
-      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/b0c250e7d04cad6df9e70b3d32ac5321.jpg",
+      "releaseDate": null,
+      "thumbnail": null,
       "postUrl": "https://javtiful.com/video/113351/10musume",
       "actress": {
         "name": "Aya Hamanaka",
@@ -54,11 +54,11 @@
       "releaseDate": null,
       "thumbnail": null,
       "postUrl": "https://javtiful.com/video/113584/10musume",
+      "actress": null,
       "studio": {
         "name": "10Musume",
         "slug": "10musume"
-      },
-      "addedAt": "2026-09-16T15:23:27.116Z"
+      }
     }
   ]
 }

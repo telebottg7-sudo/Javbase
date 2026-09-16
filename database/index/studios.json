@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T15:27:56.311Z",
+  "updatedAt": "2026-09-16T15:30:51.112Z",
   "totalCount": 25,
   "studios": [
     {
@@ -225,8 +225,8 @@
       "letter": "s",
       "path": "studio/s/sod-create.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/9245ae4e6541b55a7d234180c7f9d071.jpg",
-      "videoCount": 586,
-      "updatedAt": "2026-09-16T15:23:19.513Z"
+      "videoCount": 594,
+      "updatedAt": "2026-09-16T15:30:51.112Z"
     }
   ]
 }

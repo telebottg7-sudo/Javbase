@@ -1,7 +1,7 @@
 {
   "prefix": "AVOP",
   "version": 1,
-  "updatedAt": "2026-09-16T15:27:49.310Z",
+  "updatedAt": "2026-09-16T15:31:04.127Z",
   "totalCount": 1,
   "codes": [
     {
@@ -14,7 +14,7 @@
         "name": "Kijima Airi",
         "slug": "kijima-airi"
       },
-      "addedAt": "2026-09-16T15:27:49.310Z"
+      "studio": null
     }
   ],
   "videos": [
@@ -28,7 +28,7 @@
         "name": "Kijima Airi",
         "slug": "kijima-airi"
       },
-      "addedAt": "2026-09-16T15:27:49.310Z"
+      "studio": null
     }
   ]
 }
