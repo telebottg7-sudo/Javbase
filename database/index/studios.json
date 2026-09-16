@@ -1,8 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T13:47:23.424Z",
-  "totalCount": 20,
+  "updatedAt": "2026-09-16T15:23:19.513Z",
+  "totalCount": 25,
   "studios": [
+    {
+      "slug": "yama-to-sora",
+      "name": "Yama To Sora",
+      "letter": "y",
+      "path": "studio/y/yama-to-sora.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/16/3a0a3c55a3f42ff0e40e230784c579db.jpg",
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
+    },
+    {
+      "slug": "serebu-no-tomo",
+      "name": "Serebu No Tomo",
+      "letter": "s",
+      "path": "studio/s/serebu-no-tomo.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/16/d30ce77b6614a7f0e5ce9c7aa45cbf60.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
+    },
+    {
+      "slug": "ie-nergy",
+      "name": "IE NERGY",
+      "letter": "i",
+      "path": "studio/i/ie-nergy.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/16/5e22f44a17530bd3f92f57c8337745c9.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
+    },
+    {
+      "slug": "maxing",
+      "name": "MAXING",
+      "letter": "m",
+      "path": "studio/m/maxing.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/16/c5db882e304d837751ba2062c554ffa6.jpg",
+      "videoCount": 4,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
+    },
+    {
+      "slug": "tma",
+      "name": "Tma",
+      "letter": "t",
+      "path": "studio/t/tma.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/16/f85c6f977b3db2124b21a1dea9390079.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
+    },
     {
       "slug": "das",
       "name": "Das !",
@@ -36,8 +81,8 @@
       "letter": "d",
       "path": "studio/d/dahlia.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/420e50080c2c89a84a6cd3e9b56006c3.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:21:05.366Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
     },
     {
       "slug": "oppai",
@@ -54,8 +99,8 @@
       "letter": "_",
       "path": "studio/_/10musume.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/b0c250e7d04cad6df9e70b3d32ac5321.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:21:05.366Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
     },
     {
       "slug": "glory-quest",
@@ -90,8 +135,8 @@
       "letter": "f",
       "path": "studio/f/fc2ppv.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/a72a2e9ab770e25a49d10a4911d96ef8.jpg",
-      "videoCount": 11,
-      "updatedAt": "2026-09-12T18:21:05.366Z"
+      "videoCount": 12,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
     },
     {
       "slug": "attackers",
@@ -99,8 +144,8 @@
       "letter": "a",
       "path": "studio/a/attackers.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/e9f92659c3ef705d52d0fe21e6425e52.jpg",
-      "videoCount": 1,
-      "updatedAt": "2026-09-12T18:21:05.366Z"
+      "videoCount": 2,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
     },
     {
       "slug": "lunatics",
@@ -117,8 +162,8 @@
       "letter": "m",
       "path": "studio/m/moodyz.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/3ce0c0aeee9cac1e1006d71e2ea88962.jpg",
-      "videoCount": 3,
-      "updatedAt": "2026-09-12T18:21:05.366Z"
+      "videoCount": 5,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
     },
     {
       "slug": "venus",
@@ -180,8 +225,8 @@
       "letter": "s",
       "path": "studio/s/sod-create.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/9245ae4e6541b55a7d234180c7f9d071.jpg",
-      "videoCount": 581,
-      "updatedAt": "2026-09-12T17:56:27.558Z"
+      "videoCount": 586,
+      "updatedAt": "2026-09-16T15:23:19.513Z"
     }
   ]
 }
