@@ -1,8 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T15:52:44.723Z",
-  "totalCount": 26,
+  "updatedAt": "2026-09-16T15:56:03.013Z",
+  "totalCount": 27,
   "studios": [
+    {
+      "slug": "sadistic-village",
+      "name": "Sadistic Village",
+      "letter": "s",
+      "path": "studio/s/sadistic-village.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/06/33621120e25d3daa2dde012c7b261ffb.jpg",
+      "videoCount": 218,
+      "updatedAt": "2026-09-16T15:56:03.013Z"
+    },
     {
       "slug": "hunter",
       "name": "Hunter",
