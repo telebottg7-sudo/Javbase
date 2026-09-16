@@ -1,8 +1,8 @@
 {
   "prefix": "ADN",
   "version": 1,
-  "updatedAt": "2026-09-13T13:48:00.034Z",
-  "totalCount": 2,
+  "updatedAt": "2026-09-16T15:23:27.116Z",
+  "totalCount": 3,
   "codes": [
     {
       "code": "ADN-001",
@@ -21,6 +21,22 @@
       "postUrl": "https://javtiful.com/video/113057/adn-806-reducing-mosaic",
       "actress": null,
       "studio": null
+    },
+    {
+      "code": "ADN-802",
+      "title": "ADN-802 I Became Entangled In A Secret Affair With A Teacher At My Son's Daycare.",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/113587/adn-802-reducing-mosaic",
+      "actress": {
+        "name": "Misono Waka",
+        "slug": "misono-waka"
+      },
+      "studio": {
+        "name": "Attackers",
+        "slug": "attackers"
+      },
+      "addedAt": "2026-09-16T15:23:27.116Z"
     }
   ],
   "videos": [
@@ -41,6 +57,22 @@
       "postUrl": "https://javtiful.com/video/113057/adn-806-reducing-mosaic",
       "actress": null,
       "studio": null
+    },
+    {
+      "code": "ADN-802",
+      "title": "ADN-802 I Became Entangled In A Secret Affair With A Teacher At My Son's Daycare.",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/113587/adn-802-reducing-mosaic",
+      "actress": {
+        "name": "Misono Waka",
+        "slug": "misono-waka"
+      },
+      "studio": {
+        "name": "Attackers",
+        "slug": "attackers"
+      },
+      "addedAt": "2026-09-16T15:23:27.116Z"
     }
   ]
 }
