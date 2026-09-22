@@ -1,8 +1,44 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-16T15:56:03.013Z",
-  "totalCount": 27,
+  "updatedAt": "2026-09-22T16:46:29.456Z",
+  "totalCount": 31,
   "studios": [
+    {
+      "slug": "faleno",
+      "name": "FALENO",
+      "letter": "f",
+      "path": "studio/f/faleno.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/21/21fd8b54d14973ce9ba95d9d57ee7882.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
+    },
+    {
+      "slug": "namanama",
+      "name": "Namanama",
+      "letter": "n",
+      "path": "studio/n/namanama.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/21/651c99fb9ecb768a57c4041e455f8105.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
+    },
+    {
+      "slug": "akinori",
+      "name": "Akinori",
+      "letter": "a",
+      "path": "studio/a/akinori.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/22/da3f5f916adfe2a29dfb797b67ebc274.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
+    },
+    {
+      "slug": "kmproduce",
+      "name": "K.M.Produce",
+      "letter": "k",
+      "path": "studio/k/kmproduce.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/22/c1ce50e2cd1867c804c8fa3e97974b75.jpg",
+      "videoCount": 1,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
+    },
     {
       "slug": "sadistic-village",
       "name": "Sadistic Village",
@@ -72,8 +108,8 @@
       "letter": "d",
       "path": "studio/d/das.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/06/19/d84a2fda8a57b4fc804e9e8b8dd3acbc.jpg",
-      "videoCount": 115,
-      "updatedAt": "2026-09-13T13:47:23.424Z"
+      "videoCount": 116,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
     },
     {
       "slug": "premium",
@@ -99,8 +135,8 @@
       "letter": "d",
       "path": "studio/d/dahlia.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/420e50080c2c89a84a6cd3e9b56006c3.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-16T15:23:19.513Z"
+      "videoCount": 6,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
     },
     {
       "slug": "oppai",
@@ -153,8 +189,8 @@
       "letter": "f",
       "path": "studio/f/fc2ppv.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/12/a72a2e9ab770e25a49d10a4911d96ef8.jpg",
-      "videoCount": 12,
-      "updatedAt": "2026-09-16T15:23:19.513Z"
+      "videoCount": 23,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
     },
     {
       "slug": "attackers",
@@ -162,8 +198,8 @@
       "letter": "a",
       "path": "studio/a/attackers.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/e9f92659c3ef705d52d0fe21e6425e52.jpg",
-      "videoCount": 16,
-      "updatedAt": "2026-09-16T15:50:35.720Z"
+      "videoCount": 18,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
     },
     {
       "slug": "lunatics",
@@ -180,8 +216,8 @@
       "letter": "m",
       "path": "studio/m/moodyz.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/3ce0c0aeee9cac1e1006d71e2ea88962.jpg",
-      "videoCount": 5,
-      "updatedAt": "2026-09-16T15:23:19.513Z"
+      "videoCount": 7,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
     },
     {
       "slug": "venus",
@@ -234,8 +270,8 @@
       "letter": "s",
       "path": "studio/s/s1-no1-style.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2024/07/29/bea11cdde7876846a866348e746457cf.jpg",
-      "videoCount": 2,
-      "updatedAt": "2026-09-12T18:21:05.366Z"
+      "videoCount": 6,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
     },
     {
       "slug": "sod-create",
@@ -243,8 +279,8 @@
       "letter": "s",
       "path": "studio/s/sod-create.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/09/10/9245ae4e6541b55a7d234180c7f9d071.jpg",
-      "videoCount": 594,
-      "updatedAt": "2026-09-16T15:30:51.112Z"
+      "videoCount": 598,
+      "updatedAt": "2026-09-22T16:46:29.456Z"
     }
   ]
 }
