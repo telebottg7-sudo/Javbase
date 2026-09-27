@@ -1,8 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T17:45:59.219Z",
-  "totalCount": 709,
+  "updatedAt": "2026-09-27T17:48:10.705Z",
+  "totalCount": 710,
   "actresses": [
+    {
+      "slug": "nijimura-yumi",
+      "name": "Nijimura Yumi",
+      "letter": "n",
+      "path": "pstar/n/nijimura-yumi.json",
+      "thumbnail": "https://javtiful.com/uploads/uploads/collections/actresses/2026/05/03/79cd15c2a56f229852d414c5e958a8c5.jpg",
+      "videoCount": 21,
+      "updatedAt": "2026-09-27T17:48:10.705Z"
+    },
     {
       "slug": "morishita-mari",
       "name": "Morishita Mari",
