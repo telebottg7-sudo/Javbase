@@ -1,8 +1,8 @@
 {
   "prefix": "HSODA",
   "version": 1,
-  "updatedAt": "2026-09-27T17:48:13.619Z",
-  "totalCount": 1,
+  "updatedAt": "2026-09-27T17:52:21.420Z",
+  "totalCount": 2,
   "codes": [
     {
       "code": "HSODA-119",
@@ -15,6 +15,18 @@
         "slug": "nijimura-yumi"
       },
       "addedAt": "2026-09-27T17:48:13.619Z"
+    },
+    {
+      "code": "HSODA-073",
+      "title": "HSODA-073 I will never forget the day you asked me to help you confess. We were in love with each other, but we drifted apart, dated different people, and cried out from the bottom",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/88267/hsoda-073",
+      "actress": {
+        "name": "Nijimura Yumi",
+        "slug": "nijimura-yumi"
+      },
+      "addedAt": "2026-09-27T17:52:21.420Z"
     }
   ],
   "videos": [
@@ -29,6 +41,18 @@
         "slug": "nijimura-yumi"
       },
       "addedAt": "2026-09-27T17:48:13.619Z"
+    },
+    {
+      "code": "HSODA-073",
+      "title": "HSODA-073 I will never forget the day you asked me to help you confess. We were in love with each other, but we drifted apart, dated different people, and cried out from the bottom",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/88267/hsoda-073",
+      "actress": {
+        "name": "Nijimura Yumi",
+        "slug": "nijimura-yumi"
+      },
+      "addedAt": "2026-09-27T17:52:21.420Z"
     }
   ]
 }
