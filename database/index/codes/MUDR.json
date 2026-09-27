@@ -1,8 +1,8 @@
 {
   "prefix": "MUDR",
   "version": 1,
-  "updatedAt": "2026-09-16T15:46:47.597Z",
-  "totalCount": 5,
+  "updatedAt": "2026-09-27T17:48:13.619Z",
+  "totalCount": 6,
   "codes": [
     {
       "code": "MUDR-353",
@@ -63,6 +63,18 @@
         "slug": "kuramoto-sumire"
       },
       "studio": null
+    },
+    {
+      "code": "MUDR-378",
+      "title": "MUDR-378 Kidnapping And Imprisonment Game",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/107904/mudr-378",
+      "actress": {
+        "name": "Nijimura Yumi",
+        "slug": "nijimura-yumi"
+      },
+      "addedAt": "2026-09-27T17:48:13.619Z"
     }
   ],
   "videos": [
@@ -125,6 +137,18 @@
         "slug": "kuramoto-sumire"
       },
       "studio": null
+    },
+    {
+      "code": "MUDR-378",
+      "title": "MUDR-378 Kidnapping And Imprisonment Game",
+      "releaseDate": null,
+      "thumbnail": null,
+      "postUrl": "https://javtiful.com/video/107904/mudr-378",
+      "actress": {
+        "name": "Nijimura Yumi",
+        "slug": "nijimura-yumi"
+      },
+      "addedAt": "2026-09-27T17:48:13.619Z"
     }
   ]
 }
