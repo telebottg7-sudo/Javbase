@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T16:46:29.456Z",
+  "updatedAt": "2026-09-27T17:45:59.219Z",
   "totalCount": 31,
   "studios": [
     {
@@ -216,8 +216,8 @@
       "letter": "m",
       "path": "studio/m/moodyz.json",
       "thumbnail": "https://javtiful.com/uploads/uploads/videos/thumbs/2026/05/01/3ce0c0aeee9cac1e1006d71e2ea88962.jpg",
-      "videoCount": 7,
-      "updatedAt": "2026-09-22T16:46:29.456Z"
+      "videoCount": 147,
+      "updatedAt": "2026-09-27T17:45:59.219Z"
     },
     {
       "slug": "venus",
